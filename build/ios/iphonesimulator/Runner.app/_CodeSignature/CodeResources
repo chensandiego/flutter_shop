@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		MyUOHb1I+RH5T1T8v0GzmU/EZTk=
+		JUdoUxdzUkTNaM9T0OeSIKADAXw=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		fw7NjjWYTfU1ddMkzAPBKVDH8FU=
+		vwUpzLRvypAzETtbo7X8NTRRXPU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		Gv10J7kA+qo6+Nee331B7h5nzEc=
+		MEP/23S1j3q37PpxIF/eExEdaQI=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -250,7 +250,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		agz+4SjyXDF8AnT9cM3qiUhuufI=
+		ZH01aJz8uNV1lOGmbd5WqsbEP8c=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -549,11 +549,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MyUOHb1I+RH5T1T8v0GzmU/EZTk=
+			JUdoUxdzUkTNaM9T0OeSIKADAXw=
 			</data>
 			<key>hash2</key>
 			<data>
-			z+AvepCP+wT/ft5nTbPByhYZdykzLe2mZ2EXYidnXTA=
+			7Ex+PkS1DrWvI2RO3KcjGnLXNTHsZDgE4dXiUYAph1Q=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -571,11 +571,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fw7NjjWYTfU1ddMkzAPBKVDH8FU=
+			vwUpzLRvypAzETtbo7X8NTRRXPU=
 			</data>
 			<key>hash2</key>
 			<data>
-			nPbWp7+m1nXItomH/ZFHIOs8FUVrfjuUm2MR+HudA6s=
+			Ab65hiLyJMYdmtLkKhEffWs+4dHWDT0Ovp4S3rLc6zI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -670,11 +670,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Gv10J7kA+qo6+Nee331B7h5nzEc=
+			MEP/23S1j3q37PpxIF/eExEdaQI=
 			</data>
 			<key>hash2</key>
 			<data>
-			bsfpJDJyIf7uKf5MyD9brzTo8mTYRHzhv5q75TZoWrE=
+			kSsRbNmO6E/9m/l4vgr3FfovaIW4xaDJzJyfVYRgaWs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
